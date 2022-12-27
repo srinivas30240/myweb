@@ -8,5 +8,6 @@
 	<h1 style="color: green; font-size: 40px;" align="center">  created PIPE LINE project4 Full Automation CI/CD</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">  created PIPE LINE new practice444 Full Automation CI/CD</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">  PIPE LINE new practice555 Full CI/CD</h1>
+	<h1 style="color: green; font-size: 40px;" align="center">  PIPE LINE new practice666 Full CI/CD</h1>
 </body>
 </html>
